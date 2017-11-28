@@ -1,0 +1,249 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="amcbusiness.com" resolutions="1x" timestamp="1499813216991">
+  <folder name="css">
+    <file name="site_global.css" crc="3982941125"/>
+    <file name="master_paginas-internas.css" crc="230646941" ref="servicios:nosotros:clientes:publicaciones"/>
+    <file name="nomq_preview_master_paginas-internas.css" crc="330244279" ref="servicios:nosotros:clientes:publicaciones"/>
+    <file name="master_contacto.css" crc="68905358" ref="contacto"/>
+    <file name="nomq_preview_master_contacto.css" crc="3960062274" ref="contacto"/>
+    <file name="master_pagina-principal.css" crc="4169164335" ref="index"/>
+    <file name="nomq_preview_master_pagina-principal.css" crc="4095547641" ref="index"/>
+    <file name="contacto.css" crc="4207316419" ref="contacto"/>
+    <file name="nomq_contacto.css" crc="349766587" ref="contacto"/>
+    <file name="servicios.css" crc="3846038320" ref="servicios"/>
+    <file name="nomq_servicios.css" crc="4167981466" ref="servicios"/>
+    <file name="iefonts_servicios.css" crc="133538127" ref="servicios"/>
+    <file name="index.css" crc="4169465657" ref="index"/>
+    <file name="nomq_index.css" crc="4161021342" ref="index"/>
+    <file name="iefonts_index.css" crc="133538127" ref="index"/>
+    <file name="nosotros.css" crc="4268315200" ref="nosotros"/>
+    <file name="nomq_nosotros.css" crc="3911329819" ref="nosotros"/>
+    <file name="iefonts_nosotros.css" crc="133538127" ref="nosotros"/>
+    <file name="clientes.css" crc="4145975266" ref="clientes"/>
+    <file name="nomq_clientes.css" crc="290082526" ref="clientes"/>
+    <file name="iefonts_clientes.css" crc="133538127" ref="clientes"/>
+    <file name="publicaciones.css" crc="4043010340" ref="publicaciones"/>
+    <file name="nomq_publicaciones.css" crc="3981591136" ref="publicaciones"/>
+    <file name="iefonts_publicaciones.css" crc="133538127" ref="publicaciones"/>
+  </folder>
+  <folder name="assets">
+    <file name="creatico.mulib" crc="3848530200" seo="true" mt="1484401241000"/>
+    <file name="herramientas-para-la-consolidación-de-las-mipyme.pdf" crc="105644878" seo="true" mt="1499211712000"/>
+    <file name="tpp,-retos-y-oportunidades-para-los-empresarios-mexicanos.pdf" crc="434597030" seo="true" mt="1499211708000"/>
+    <file name="manual-de-identidad-gráfica-vista-digital.pdf" crc="91085892" seo="true" mt="1488758336000"/>
+    <file name="el-modelo-de-negocio-como-elemento-clave-del-éxito-de-las-empresas.pdf" crc="4225880923" seo="true" mt="1499708001000"/>
+    <file name="doc_1.pdf" crc="105644878" seo="true" mt="1499211712000"/>
+    <file name="doc-2.pdf" crc="434597030" seo="true" mt="1499211708000"/>
+    <file name="doc-3.pdf" crc="4225880923" seo="true" mt="1499708001000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nosotros:clientes:contacto:servicios:publicaciones"/>
+    <file name="museutils.js" crc="163421577" ref="index:nosotros:clientes:contacto:servicios:publicaciones"/>
+    <file name="whatinput.js" crc="86476730" ref="index:nosotros:clientes:contacto:servicios:publicaciones"/>
+    <file name="museconfig.js" crc="36584860" ref="index:nosotros:clientes:contacto:servicios:publicaciones"/>
+    <file name="webpro.js" crc="3848665353" ref="index:contacto:nosotros:clientes:servicios:publicaciones"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index:nosotros"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index:nosotros"/>
+    <file name="touchswipe.js" crc="404375771" ref="index:nosotros"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:nosotros:clientes:contacto:servicios:publicaciones"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:nosotros:clientes:contacto:servicios:publicaciones"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:nosotros:clientes:contacto:servicios:publicaciones"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index:nosotros:clientes:contacto:servicios:publicaciones"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index:contacto"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:nosotros:clientes:contacto:servicios:publicaciones"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:nosotros:clientes:contacto:servicios:publicaciones"/>
+    <file name="require.js" crc="244322403" ref="index:nosotros:clientes:contacto:servicios:publicaciones"/>
+    <file name="form_check.php" crc="158155501" ref="contacto"/>
+    <file name="form_throttle.php" crc="3992970984" ref="contacto"/>
+    <file name="form_process.php" crc="4078697226" ref="contacto"/>
+    <file name="form-u42140.php" crc="458604870" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="cabecera-01.jpg" crc="492754019" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:nosotros:clientes:contacto:servicios:publicaciones"/>
+    <file name="cabecera-02.jpg" crc="524066571" seo="true" ref="index"/>
+    <file name="cabecera-03.jpg" crc="4287590828" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="imagotipo_blanco.svg" crc="466556087" ref="index"/>
+    <file name="imagotipo_blanco_poster_u14599.png" crc="4004630874" ref="index"/>
+    <file name="imagotipo-01.svg" crc="4059377117" seo="true" ref="index:nosotros:clientes:servicios:publicaciones"/>
+    <file name="imagotipo-01_poster_u14607.png" crc="471339941" ref="index"/>
+    <file name="simbolo_blanco.svg" crc="12390743" ref="index"/>
+    <file name="simbolo-01.svg" crc="368722255" ref="index:nosotros:clientes:contacto:servicios:publicaciones"/>
+    <file name="simbolo-01_poster_u14313.png" crc="3768886672" ref="index:nosotros:clientes:contacto:servicios:publicaciones"/>
+    <file name="imagotipo-01_poster_.png" crc="4203282661" ref="index:publicaciones"/>
+    <file name="pexels-photo (2).jpg" crc="240342456" ref="index:nosotros"/>
+    <file name="u35766-4.png" crc="285947907" ref="index"/>
+    <file name="hands-people-woman-working-u35754-fr.jpg" crc="38434260" ref="index:nosotros"/>
+    <file name="u35768-4.png" crc="22967537" ref="index"/>
+    <file name="52459401_ml-u35753-fr.jpg" crc="3844073859" ref="index:nosotros"/>
+    <file name="u35767-4.png" crc="3817686860" ref="index"/>
+    <file name="telefono_ico.png" crc="3939482782" seo="true" ref="index:nosotros:clientes:contacto:servicios:publicaciones"/>
+    <file name="correo.png" crc="3982796258" seo="true" ref="index:nosotros:clientes:contacto:servicios:publicaciones"/>
+    <file name="ubicacion.png" crc="94586380" seo="true" ref="index:nosotros:clientes:contacto:servicios:publicaciones"/>
+    <file name="u35766-42.png" crc="488703474" ref="index"/>
+    <file name="u35768-42.png" crc="407670871" ref="index"/>
+    <file name="u35767-42.png" crc="468388273" ref="index"/>
+    <file name="u35766-43.png" crc="488703474" ref="index"/>
+    <file name="u35768-43.png" crc="407670871" ref="index"/>
+    <file name="u35767-43.png" crc="468388273" ref="index"/>
+    <file name="u35766-44.png" crc="488703474" ref="index"/>
+    <file name="u35768-44.png" crc="407670871" ref="index"/>
+    <file name="u35767-44.png" crc="468388273" ref="index"/>
+    <file name="u43708-4.png" crc="171529153" ref="nosotros"/>
+    <file name="u44165-4.png" crc="4104928602" ref="nosotros"/>
+    <file name="u43708-42.png" crc="171529153" ref="nosotros"/>
+    <file name="u44165-42.png" crc="4104928602" ref="nosotros"/>
+    <file name="u43708-43.png" crc="171529153" ref="nosotros"/>
+    <file name="u44165-43.png" crc="4104928602" ref="nosotros"/>
+    <file name="11811295_1700769780151240_2129694348196327345_n.jpg" crc="142378039" seo="true" ref="clientes"/>
+    <file name="logo.png" crc="5700402" seo="true" ref="clientes"/>
+    <file name="18342387_121994928366971_819138321162586853_n.jpg" crc="364796869" seo="true" ref="clientes"/>
+    <file name="logo_red.png" crc="329741578" seo="true" ref="clientes"/>
+    <file name="logo-sin-fronteras.jpg" crc="215909049" seo="true" ref="clientes"/>
+    <file name="u42969-4.png" crc="4245608619" ref="clientes"/>
+    <file name="u42969-42.png" crc="4245608619" ref="clientes"/>
+    <file name="52459401_ml.jpg" crc="3801600060" ref="contacto"/>
+    <file name="u42157-4.png" crc="4195720320" ref="contacto"/>
+    <file name="u42157-42.png" crc="4195720320" ref="contacto"/>
+    <file name="calculator-calculation-insurance-finance-53621.jpg" crc="320189177" ref="servicios"/>
+    <file name="hands-people-woman-working.jpg" crc="4069533198" ref="servicios"/>
+    <file name="people-woman-coffee-meeting.jpg" crc="3901601951" ref="servicios"/>
+    <file name="pexels-photo-57825.jpg" crc="264127402" ref="servicios"/>
+    <file name="pexels-photo-429247.jpg" crc="4212033392" ref="servicios"/>
+    <file name="u46107-4.png" crc="269391247" ref="servicios"/>
+    <file name="u46107-42.png" crc="269391247" ref="servicios"/>
+    <file name="simbolo_blanco_poster_u51473.png" crc="3768820376" ref="index"/>
+    <file name="pexels-photo (2)-u35752-fr.jpg" crc="157312085" ref="index:nosotros"/>
+    <file name="52459401_ml-u35753-fr2.jpg" crc="158967640" ref="index:nosotros"/>
+    <file name="hands-people-woman-working-u35754-fr2.jpg" crc="175252494" ref="index:nosotros"/>
+    <file name="u35766-45.png" crc="3991550851" ref="index"/>
+    <file name="52459401_ml-u35753-fr3.jpg" crc="14202850" ref="index:servicios:nosotros"/>
+    <file name="u35767-45.png" crc="16377652" ref="index"/>
+    <file name="hands-people-woman-working-u35754-fr3.jpg" crc="3885463210" ref="index:nosotros"/>
+    <file name="u35768-45.png" crc="3817539131" ref="index"/>
+    <file name="hambur.png" crc="252226331" ref="index:nosotros:clientes:contacto:publicaciones"/>
+    <file name="cerrar.png" crc="194896555" ref="index:nosotros:clientes:contacto:publicaciones"/>
+    <file name="u35766-46.png" crc="3991550851" ref="index"/>
+    <file name="u35767-46.png" crc="16377652" ref="index"/>
+    <file name="u35768-46.png" crc="3817539131" ref="index"/>
+    <file name="u35766-47.png" crc="3991550851" ref="index"/>
+    <file name="u35767-47.png" crc="16377652" ref="index"/>
+    <file name="u35768-47.png" crc="3817539131" ref="index"/>
+    <file name="u35766-48.png" crc="3989477037" ref="index"/>
+    <file name="52459401_ml-u35753-fr4.jpg" crc="495795169" ref="index:nosotros"/>
+    <file name="u35767-48.png" crc="378077308" ref="index"/>
+    <file name="hands-people-woman-working-u35754-fr4.jpg" crc="3885159003" ref="index:nosotros"/>
+    <file name="u35768-48.png" crc="258847808" ref="index"/>
+    <file name="u51038-4.png" crc="477469001" ref="nosotros"/>
+    <file name="persona1-u50916-fr.jpg" crc="89636303" ref="nosotros"/>
+    <file name="persona2-u50939-fr.jpg" crc="3824056084" ref="nosotros"/>
+    <file name="persona3-u50989-fr.jpg" crc="309297902" ref="nosotros"/>
+    <file name="andy-u50966-fr.jpg" crc="7543257" ref="nosotros"/>
+    <file name="persona1.jpg" crc="4256326697" ref="nosotros"/>
+    <file name="persona2.jpg" crc="4290441604" ref="nosotros"/>
+    <file name="persona3.jpg" crc="3776624661" ref="nosotros"/>
+    <file name="andy.jpg" crc="33484498" ref="nosotros"/>
+    <file name="u51038-42.png" crc="477469001" ref="nosotros"/>
+    <file name="u51038-43.png" crc="477469001" ref="nosotros"/>
+    <file name="u43708-44.png" crc="171529153" ref="nosotros"/>
+    <file name="u51038-44.png" crc="477469001" ref="nosotros"/>
+    <file name="u44165-44.png" crc="4104928602" ref="nosotros"/>
+    <file name="u43708-45.png" crc="171529153" ref="nosotros"/>
+    <file name="u51038-45.png" crc="477469001" ref="nosotros"/>
+    <file name="u44165-45.png" crc="4104928602" ref="nosotros"/>
+    <file name="u43708-46.png" crc="171529153" ref="nosotros"/>
+    <file name="u51038-46.png" crc="299752303" ref="nosotros"/>
+    <file name="u44165-46.png" crc="4104928602" ref="nosotros"/>
+    <file name="u43708-47.png" crc="171529153" ref="nosotros"/>
+    <file name="u51038-47.png" crc="299752303" ref="nosotros"/>
+    <file name="u44165-47.png" crc="4104928602" ref="nosotros"/>
+    <file name="u43708-48.png" crc="171529153" ref="nosotros"/>
+    <file name="u51038-48.png" crc="299752303" ref="nosotros"/>
+    <file name="u44165-48.png" crc="4104928602" ref="nosotros"/>
+    <file name="u43708-49.png" crc="171529153" ref="nosotros"/>
+    <file name="u51038-49.png" crc="299752303" ref="nosotros"/>
+    <file name="u44165-49.png" crc="4104928602" ref="nosotros"/>
+    <file name="u43708-410.png" crc="171529153" ref="nosotros"/>
+    <file name="u51038-410.png" crc="299752303" ref="nosotros"/>
+    <file name="u44165-410.png" crc="4104928602" ref="nosotros"/>
+    <file name="escudo oficial.png" crc="3849237636" seo="true" ref="clientes"/>
+    <file name="u42969-43.png" crc="4245608619" ref="clientes"/>
+    <file name="u42969-44.png" crc="4245608619" ref="clientes"/>
+    <file name="u42969-45.png" crc="4245608619" ref="clientes"/>
+    <file name="u42969-46.png" crc="4245608619" ref="clientes"/>
+    <file name="u42969-47.png" crc="4245608619" ref="clientes"/>
+    <file name="u42969-48.png" crc="4245608619" ref="clientes"/>
+    <file name="u42969-49.png" crc="4245608619" ref="clientes"/>
+    <file name="u42157-43.png" crc="4195720320" ref="contacto"/>
+    <file name="u42157-44.png" crc="4195720320" ref="contacto"/>
+    <file name="u42157-45.png" crc="4195720320" ref="contacto"/>
+    <file name="u42157-46.png" crc="4195720320" ref="contacto"/>
+    <file name="u42157-47.png" crc="4195720320" ref="contacto"/>
+    <file name="u42157-48.png" crc="4195720320" ref="contacto"/>
+    <file name="calculator-calculation-insurance-finance-53621-u46083-fr.jpg" crc="364415257" ref="servicios"/>
+    <file name="hands-people-woman-working-u46086-fr.jpg" crc="3971916382" ref="servicios"/>
+    <file name="people-woman-coffee-meeting-u46084-fr.jpg" crc="3936167373" ref="servicios"/>
+    <file name="pexels-photo-57825-u46085-fr.jpg" crc="80154767" ref="servicios"/>
+    <file name="pexels-photo-429247-u46088-fr.jpg" crc="3998449273" ref="servicios"/>
+    <file name="u46107-43.png" crc="269391247" ref="servicios"/>
+    <file name="52459401_ml-u46087-fr.jpg" crc="309166866" ref="servicios"/>
+    <file name="u46107-44.png" crc="269391247" ref="servicios"/>
+    <file name="52459401_ml-u46087-fr2.jpg" crc="237845680" ref="servicios"/>
+    <file name="u46107-45.png" crc="269391247" ref="servicios"/>
+    <file name="calculator-calculation-insurance-finance-53621-u46083-fr2.jpg" crc="268624543" ref="servicios"/>
+    <file name="hands-people-woman-working-u46086-fr2.jpg" crc="293732622" ref="servicios"/>
+    <file name="people-woman-coffee-meeting-u46084-fr2.jpg" crc="3773979307" ref="servicios"/>
+    <file name="52459401_ml-u46087-fr3.jpg" crc="3772247670" ref="servicios"/>
+    <file name="pexels-photo-57825-u46085-fr2.jpg" crc="3777380788" ref="servicios"/>
+    <file name="pexels-photo-429247-u46088-fr2.jpg" crc="4159382221" ref="servicios"/>
+    <file name="u46107-46.png" crc="269391247" ref="servicios"/>
+    <file name="calculator-calculation-insurance-finance-53621-u46083-fr3.jpg" crc="4078269611" ref="servicios"/>
+    <file name="hands-people-woman-working-u46086-fr3.jpg" crc="19936955" ref="servicios"/>
+    <file name="people-woman-coffee-meeting-u46084-fr3.jpg" crc="354664438" ref="servicios"/>
+    <file name="52459401_ml-u46087-fr4.jpg" crc="4278659061" ref="servicios"/>
+    <file name="pexels-photo-57825-u46085-fr3.jpg" crc="3793342595" ref="servicios"/>
+    <file name="pexels-photo-429247-u46088-fr3.jpg" crc="3794944137" ref="servicios"/>
+    <file name="u46107-47.png" crc="269391247" ref="servicios"/>
+    <file name="calculator-calculation-insurance-finance-53621-u46083-fr4.jpg" crc="4056034955" ref="servicios"/>
+    <file name="hands-people-woman-working-u46086-fr4.jpg" crc="4018993377" ref="servicios"/>
+    <file name="people-woman-coffee-meeting-u46084-fr4.jpg" crc="3790902216" ref="servicios"/>
+    <file name="52459401_ml-u46087-fr5.jpg" crc="3829752825" ref="servicios"/>
+    <file name="pexels-photo-57825-u46085-fr4.jpg" crc="237347301" ref="servicios"/>
+    <file name="pexels-photo-429247-u46088-fr4.jpg" crc="4276278020" ref="servicios"/>
+    <file name="u46107-48.png" crc="269391247" ref="servicios"/>
+    <file name="calculator-calculation-insurance-finance-53621-u46083-fr5.jpg" crc="4255844732" ref="servicios"/>
+    <file name="hands-people-woman-working-u46086-fr5.jpg" crc="4070185396" ref="servicios"/>
+    <file name="people-woman-coffee-meeting-u46084-fr5.jpg" crc="4067448507" ref="servicios"/>
+    <file name="52459401_ml-u46087-fr6.jpg" crc="4110517124" ref="servicios"/>
+    <file name="pexels-photo-57825-u46085-fr5.jpg" crc="4104536987" ref="servicios"/>
+    <file name="pexels-photo-429247-u46088-fr5.jpg" crc="3955938455" ref="servicios"/>
+    <file name="u46107-49.png" crc="269391247" ref="servicios"/>
+    <file name="hands-people-woman-working-u46086-fr6.jpg" crc="3957324936" ref="servicios"/>
+    <file name="people-woman-coffee-meeting-u46084-fr6.jpg" crc="521461653" ref="servicios"/>
+    <file name="52459401_ml-u46087-fr7.jpg" crc="4272472595" ref="servicios"/>
+    <file name="pexels-photo-57825-u46085-fr6.jpg" crc="4011687348" ref="servicios"/>
+    <file name="pexels-photo-429247-u46088-fr6.jpg" crc="91139643" ref="servicios"/>
+    <file name="6.jpg" crc="4215568388" ref="publicaciones"/>
+    <file name="bg-cta.jpg" crc="4099633011" ref="publicaciones"/>
+    <file name="pexels-photo-159888 (1).jpg" crc="345836042" ref="publicaciones"/>
+    <file name="20170626153022_img_4070-01.jpg" crc="313494235" ref="nosotros"/>
+    <file name="20170626132335_img_4055-01.jpg" crc="531810161" ref="nosotros"/>
+    <file name="colegio eduardo jenner.png" crc="4244006389" seo="true" ref="clientes"/>
+    <file name="colegio tirso de molina.png" crc="4101511787" seo="true" ref="clientes"/>
+    <file name="pasted-svg-255096x255.svg" crc="534988174" seo="true" ref="index:nosotros:clientes:contacto:servicios:publicaciones"/>
+    <file name="pasted svg 255096x255_poster_.png" crc="4080704970" ref="index:publicaciones"/>
+    <file name="insta.png" crc="127495968" seo="true" ref="index:nosotros:clientes:contacto:servicios:publicaciones"/>
+    <file name="pasted-svg-256x256.svg" crc="4292630359" seo="true" ref="index:nosotros:clientes:contacto:servicios:publicaciones"/>
+    <file name="pasted svg 256x256_poster_.png" crc="3864335627" ref="index:publicaciones"/>
+    <file name="20170626153022_img_4070-01-u51142-fr.jpg" crc="212128039" ref="nosotros"/>
+    <file name="20170626132335_img_4055-01-u51202-fr.jpg" crc="3796684268" ref="nosotros"/>
+    <file name="20170626153022_img_4070-01-u51166-fr.jpg" crc="34535083" ref="nosotros"/>
+    <file name="20170626132335_img_4055-01-u51223-fr.jpg" crc="3995831966" ref="nosotros"/>
+  </folder>
+  <file name="index.html" crc="3802973186" seo="true" mt="1499811386196" redirect="true"/>
+  <file name="nosotros.html" crc="4012211734" seo="true" mt="1499811124097" redirect="true"/>
+  <file name="clientes.html" crc="82416638" seo="true" mt="1499811101867" redirect="true"/>
+  <file name="contacto.html" crc="187927740" seo="true" mt="1499810283166" redirect="true"/>
+  <file name="servicios.html" crc="308225710" seo="true" mt="1499811101867" redirect="true"/>
+  <file name="publicaciones.html" crc="488626067" seo="true" mt="1499813155753" redirect="true"/>
+</manifest>
